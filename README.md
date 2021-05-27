@@ -21,24 +21,24 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Flutter</b></span><br/><br/><br/>
+          <span><b>Python</b></span><br/><br/><br/>
          <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
          <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>Python</span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+        <span>Jupyter</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
         <br/><br/>
       </td>
         <td width="25%" align="center" style="padding-bottom:3rem">
-            <span><b>Firebase</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/keras.svg">
+            <span><b>TensorFlow</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
         <br/><br/>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Bash</b></span><br/><br/><br/>
+          <span><b>AWS</b></span><br/><br/><br/>
          <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
          <br/><br/>
       </td>
