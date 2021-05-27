@@ -6,8 +6,7 @@
 - 👨‍💻 Internship student at [GrayHats](https://www.grayhats.com/es/)
 - 🤓 I am interested in Machine Learning
 - 📫 How to reach me: 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomasfernandezurbano)
+    - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomasfernandezurbano)
 
 <!--
 **TomasFdez5/TomasFdez5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
