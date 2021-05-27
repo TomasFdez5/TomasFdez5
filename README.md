@@ -3,7 +3,7 @@
 #### About me:
 
 - 👨‍🎓 Computer Science student
-- 👨‍💻 Internship student at GrayHats
+- 👨‍💻 Internship student at [GrayHats](https://www.grayhats.com/es/)
 - 🤓 I am interested in Machine Learning
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tomasfernandezurbano)
