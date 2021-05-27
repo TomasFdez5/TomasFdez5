@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What i use in my day to day :rocket:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>Flutter</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+         <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>Python</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+        <br/><br/>
+      </td>
+        <td width="25%" align="center" style="padding-bottom:3rem">
+            <span><b>Firebase</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/keras.svg">
+        <br/><br/>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>Bash</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+         <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>Git</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>Visual Studio Code</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <br/><br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
