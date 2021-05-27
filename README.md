@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"></h2>
 
-### Hi, I´m Tomás:
+### About me:
 
 - 👨‍🎓 Computer Science student
 - 👨‍💻 Internship student at GrayHats
