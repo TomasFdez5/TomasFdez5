@@ -2,7 +2,7 @@
 
 #### About me:
 
-- 👨‍🎓 Computer Science student
+- 👨‍🎓 Computer science graduate
 - 👨‍💻 Machine Learning Engineer at [GrayHats](https://www.grayhats.com/es/)
 - 🤓 I am interested in Machine Learning
 - 📫 How to reach me: 
